@@ -1,0 +1,13 @@
+frontend/
+├── src/
+│   ├── pages/
+│   │   ├── LoginPage.jsx
+│   │   ├── RegisterPage.jsx
+│   │   ├── DonatePage.jsx
+│   │   ├── Dashboard.jsx
+│   │   └── Widget.jsx
+│   ├── App.jsx
+│   └── main.jsx
+├── tailwind.config.js
+├── postcss.config.js
+└── index.html
